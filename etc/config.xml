@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <db>
+        <host><![CDATA[127.0.0.1]]></host>
+        <user><![CDATA[root]]></user>
+        <pass><![CDATA[]]></pass>
+        <name><![CDATA[undp_api]]></name>
+    </db>
+</config>
