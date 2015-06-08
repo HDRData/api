@@ -18,7 +18,7 @@
  Language: language = en [fr, sp]
  Data Structure: structure = ciy [ciy, yic, yci, iyc, icy]
 
- The pretty print option facilitates in-browser exploration of the data, however it is not necessary when downloading the data or connecting an application directly to the API.
+ The pretty print option facilitates in-browser exploration of the data, however in order to do so, it wraps the JSON string in HTML tags, therefore it should not be used when downloading the data or connecting an application directly to the API.
 
  The GZIP format speeds up the query and is particularly useful for large queries (i.e. all indicators for all countries). It is set as a default and can be unset by using the following option selection at the end of the query: “gzip=false”.
 
