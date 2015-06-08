@@ -1,7 +1,7 @@
 ##CONTRIBUTING CODE EXAMPLES
 
-In order to contribute working examples of code using the HDR Data API, please fork the repository, insert your scripts in the Examples folder and submit a pull request.
+In order to contribute working examples of code using the HDR Data API, please share the link to your scripts (for example in GitHub or Bit Bucket) and we will display it below.
 
-Please package the scripts in a folder with a useful title, such as "R Scripts" or "D3 Implementation".
+Example scripts might include R or Stata implementations, Python, or D3 visualizations.
 
-If in doubt, please contact HDR Web at: hdro.web@undp.org.
+If in doubt, please post an issue here or contact HDR Web at: hdro.web@undp.org.
